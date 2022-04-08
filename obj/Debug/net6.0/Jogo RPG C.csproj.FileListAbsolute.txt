@@ -1,0 +1,5 @@
+C:\Users\julio\OneDrive - SENAC - SP\Área de Trabalho\Jogo RPG C#\obj\Debug\net6.0\Jogo RPG C.csproj.AssemblyReference.cache
+C:\Users\julio\OneDrive - SENAC - SP\Área de Trabalho\Jogo RPG C#\obj\Debug\net6.0\Jogo RPG C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\OneDrive - SENAC - SP\Área de Trabalho\Jogo RPG C#\obj\Debug\net6.0\Jogo RPG C.AssemblyInfoInputs.cache
+C:\Users\julio\OneDrive - SENAC - SP\Área de Trabalho\Jogo RPG C#\obj\Debug\net6.0\Jogo RPG C.AssemblyInfo.cs
+C:\Users\julio\OneDrive - SENAC - SP\Área de Trabalho\Jogo RPG C#\obj\Debug\net6.0\Jogo RPG C.csproj.CoreCompileInputs.cache

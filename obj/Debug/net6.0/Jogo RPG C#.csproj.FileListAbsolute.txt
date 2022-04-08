@@ -1,0 +1,15 @@
+C:\Users\julio\OneDrive - SENAC - SP\Área de Trabalho\Jogo RPG C#\bin\Debug\net6.0\Jogo RPG C#.exe
+C:\Users\julio\OneDrive - SENAC - SP\Área de Trabalho\Jogo RPG C#\bin\Debug\net6.0\Jogo RPG C#.deps.json
+C:\Users\julio\OneDrive - SENAC - SP\Área de Trabalho\Jogo RPG C#\bin\Debug\net6.0\Jogo RPG C#.runtimeconfig.json
+C:\Users\julio\OneDrive - SENAC - SP\Área de Trabalho\Jogo RPG C#\bin\Debug\net6.0\Jogo RPG C#.dll
+C:\Users\julio\OneDrive - SENAC - SP\Área de Trabalho\Jogo RPG C#\bin\Debug\net6.0\Jogo RPG C#.pdb
+C:\Users\julio\OneDrive - SENAC - SP\Área de Trabalho\Jogo RPG C#\obj\Debug\net6.0\Jogo RPG C#.csproj.AssemblyReference.cache
+C:\Users\julio\OneDrive - SENAC - SP\Área de Trabalho\Jogo RPG C#\obj\Debug\net6.0\Jogo RPG C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\OneDrive - SENAC - SP\Área de Trabalho\Jogo RPG C#\obj\Debug\net6.0\Jogo RPG C#.AssemblyInfoInputs.cache
+C:\Users\julio\OneDrive - SENAC - SP\Área de Trabalho\Jogo RPG C#\obj\Debug\net6.0\Jogo RPG C#.AssemblyInfo.cs
+C:\Users\julio\OneDrive - SENAC - SP\Área de Trabalho\Jogo RPG C#\obj\Debug\net6.0\Jogo RPG C#.csproj.CoreCompileInputs.cache
+C:\Users\julio\OneDrive - SENAC - SP\Área de Trabalho\Jogo RPG C#\obj\Debug\net6.0\Jogo RPG C#.dll
+C:\Users\julio\OneDrive - SENAC - SP\Área de Trabalho\Jogo RPG C#\obj\Debug\net6.0\refint\Jogo RPG C#.dll
+C:\Users\julio\OneDrive - SENAC - SP\Área de Trabalho\Jogo RPG C#\obj\Debug\net6.0\Jogo RPG C#.pdb
+C:\Users\julio\OneDrive - SENAC - SP\Área de Trabalho\Jogo RPG C#\obj\Debug\net6.0\Jogo RPG C#.genruntimeconfig.cache
+C:\Users\julio\OneDrive - SENAC - SP\Área de Trabalho\Jogo RPG C#\obj\Debug\net6.0\ref\Jogo RPG C#.dll
